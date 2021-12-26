@@ -2,7 +2,7 @@
 ## Topics
 * [What is Simple Alarm?](#what-is-simplealarm)
 * [Can I use the code?](#can-i-use-code-from-this-repo)
-* [Support Me](#contactsupport-me)
+* [Contact with Me](#contactwith-me)
 * [License](#license)
 
 ## What is Simple Alarm?
@@ -21,7 +21,7 @@ Follow the rules in the license, and you're good.
 - BroadcastReceiver, AlarmManager, ForegroundService
 
 
-## Contact me:
+## Contact with me:
 
 [Facebook](https://www.facebook.com/itsmeshafiul)
 
